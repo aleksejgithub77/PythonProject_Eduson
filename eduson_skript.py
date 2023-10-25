@@ -5,3 +5,5 @@ if __name__ == '__main__':
 
     print('I am inside main!')
 print('Another file!')
+
+print('Added fruit!')

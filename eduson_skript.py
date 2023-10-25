@@ -4,3 +4,4 @@ if __name__ == '__main__':
         print('Hello, Word!')
 
     print('I am inside main!')
+print('Another file!')
